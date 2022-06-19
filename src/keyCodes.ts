@@ -1,5 +1,5 @@
 import { writeFile } from "fs";
-export const keyCodes = {
+const keyCodes = {
   Backspace: 8,
   Tab: 9,
   Enter: 13,
@@ -102,3 +102,4 @@ writeFile("keycodes.json", jsonData, (err) => {
   if (err) throw err;
   console.log("File Saved");
 });
+export default keyCodes;
