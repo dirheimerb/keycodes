@@ -77,10 +77,10 @@
   "resolved" "https://registry.npmjs.org/diff/-/diff-4.0.2.tgz"
   "version" "4.0.2"
 
-"fireifly-keycodes@^1.0.0":
-  "integrity" "sha512-8Rwsfdr1ml/3MpNpf3a1pjmkPOwbzPakhFqQfGCTNZvOq4ECg0ycwPqRuT7nkksaIlhbKbIIPukoYvM5coNPlw=="
-  "resolved" "https://registry.npmjs.org/fireifly-keycodes/-/fireifly-keycodes-1.0.0.tgz"
-  "version" "1.0.0"
+"fireifly-keycodes@^1.0.1":
+  "integrity" "sha512-Ijp8qiIqoYiWnaV3uOgtJmxfwuX3hDKq3YTN4UuAo0aACleO5t4PoJ4+778m098J3X1NvBY8+N4eKJSy+fz8EQ=="
+  "resolved" "https://registry.npmjs.org/fireifly-keycodes/-/fireifly-keycodes-1.0.1.tgz"
+  "version" "1.0.1"
 
 "make-error@^1.1.1":
   "integrity" "sha512-s8UhlNe7vPKomQhC1qFelMokr/Sc3AgNbso3n74mVPA5LTZwkB9NlXf4XPamLxJE8h0gh73rM94xvwRT2CVInw=="
