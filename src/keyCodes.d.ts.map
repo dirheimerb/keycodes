@@ -1,0 +1,8 @@
+{
+	"version": 1,
+	"file": "keyCodes.d.ts",
+	"sourceRoot": "",
+	"sources": [ "../../../src/lib/keycodes/keyCodes.ts" ],
+	"names": [],
+	"mappings": "AACA,QAAA,MAAM,QAAQ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CA6Fb,CAAC;AAEF,eAAO,MAAM,QAAQ,QAA2B,CAAC;AACjD,eAAO,MAAM,MAAM,KAAuB,CAAC;AAO3C,eAAe,QAAQ,CAAC"
+}

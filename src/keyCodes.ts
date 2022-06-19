@@ -1,4 +1,4 @@
-import { writeFile } from "fs";
+import { writeFile } from 'fs';
 const keyCodes = {
   Backspace: 8,
   Tab: 9,
@@ -91,15 +91,15 @@ const keyCodes = {
   F11: 122,
   F12: 123,
   NumLock: 144,
-  ScrollLock: 145,
+  ScrollLock: 145
 };
 
 export const jsonData = JSON.stringify(keyCodes);
 export const jsData = JSON.parse(jsonData);
 console.log(jsonData, jsData);
 
-writeFile("keycodes.json", jsonData, (err) => {
+writeFile('keycodes.json', jsonData, err => {
   if (err) throw err;
-  console.log("File Saved");
+  console.log('File Saved');
 });
 export default keyCodes;
