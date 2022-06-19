@@ -1,3 +1,7 @@
+.tsbuildinfo
+dist
+node_modules
+
 # Logs
 logs
 *.log
@@ -102,3 +106,8 @@ dist
 
 # TernJS port file
 .tern-port
+
+# ignore
+.tsbuildinfo
+dist
+node_modules
